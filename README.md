@@ -1,6 +1,6 @@
 # Chess
-	Um simples jogo de Xadrez implementado em java e swing.
-	Para executá-lo basta fazer o seguinte:
-		-Abra o terminal na pasta onde estão os arquivos de código .java
-		-Execute o comando javac *.java
-		-Execute o comando java Chess
+A simple chess game implemented in java and swing.
+To run it just do the following:
+-Open the terminal in the folder where the .java code files are located
+-Run the javac *.java command
+-Run the java Chess command
